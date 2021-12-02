@@ -1,9 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+---
 
-<!--
-**junkaiman/junkaiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Keon. An 🎓undergrad' Data Science student at 🇺🇸Duke 🇨🇳Kunshan University. Enjoy Tech, Art, Music. Always motivated, always learning🚀.
 
-Here are some ideas to get you started:
+----
+
+![Junkai Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkaiman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junkaiman)](https://github.com/junkaiman/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkaiman&layout=compact)](https://github.com/junkaiman/github-readme-stats)
+
+
+
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +24,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
