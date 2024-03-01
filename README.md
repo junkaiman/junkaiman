@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi, I'm Keon!&fontAlign=70&fontAlignY=40&color=gradient&desc=@junkai.man&descAlign=85&animation=twinkling"></img>
   <p align="center">
-    🎓 Undergraduate | 🧪 Data Science Major |  👨‍💻 Developer <br/>
-    Located in <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/>Suzhou, China <br/>
+    🎓 Brown University | 🧪 Computer Science Major |  👨‍💻 Developer <br/>
+    Located in <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13"/>Providence, RI <br/>
     <br/>
     🌱 Currently learning iOS Dev', UI Design<br/>
     🎛 Enjoy Tech, Art, Music <br/>
@@ -44,11 +44,11 @@
   <br/>
 
   <div align="center">
-    <div>
+<!--     <div>
         <a href="https://coderstats.net/github/#junkaiman">
         <img src="https://github-readme-stats.vercel.app/api?username=junkaiman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
         </a>
-    </div>
+    </div> -->
     <div>
         <a href="https://open.spotify.com/user/1k233sdssbxbvk810li9kjusy?si=81286155229f44a4">
         <img style="align:center" src="https://spotify-recently-played-readme.vercel.app/api?user=1k233sdssbxbvk810li9kjusy&count=6" />
