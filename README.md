@@ -12,7 +12,6 @@
   <p align="center"><kbd>
     <a href="https://junkaiman.com"><img src="https://img.shields.io/badge/junkaiman.com-blog-ffffff.svg?style=social" alt="Blog"></a>
     <a href="https://www.linkedin.com/in/junkaiman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunkaiman&count_bg=%2372A5FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
     </kbd>
   </p>
   <br/>
