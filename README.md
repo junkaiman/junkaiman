@@ -55,11 +55,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=junkaiman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
         </a>
     </div> -->
-    <div>
-        <a href="https://open.spotify.com/user/1k233sdssbxbvk810li9kjusy?si=81286155229f44a4">
-        <img style="align:center" src="https://spotify-recently-played-readme.vercel.app/api?user=1k233sdssbxbvk810li9kjusy&count=6" />
-        </a>
-    </div>
   </div>
   <br/>
   <hr/>
